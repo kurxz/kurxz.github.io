@@ -1,0 +1,48 @@
+baseURL = "kurxz.github.io"
+title = "KurXZ"
+theme = "gokarna"
+languageCode = "pt"
+defaultContentLanguage = "pt"
+enableEmoji = false
+enableRobotsTXT = false
+
+# Choose one of emacs, trac or perldoc
+pygmentsStyle = "monokai"
+
+staticDir = ['static']
+
+[params]
+  footer = "KurXZ"
+  description = "Bem Vindo ao meu Site"
+  avatarURL = "/images/img.png"
+  avatarSize = "size-m"
+  customHeadHTML = """
+
+  """
+  socialIcons = [
+    {name = "github", url = "https://github.com/kurxz"},
+    
+  ]
+  metaKeywords = ["blog", "gokarna", "hugo", "programming", "github pages"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Projetos"
+    url = "/projects/"
+    weight = 3
+
+[markup]
+  [markup.tableOfContents]
+    startLevel = 1
+    endLevel = 4
+    ordered = false

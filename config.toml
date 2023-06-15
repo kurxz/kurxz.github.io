@@ -13,7 +13,7 @@ staticDir = ['static']
 
 [params]
   footer = "KurXZ"
-  description = "Bem Vindo ao meu site"
+  description = "Bem Vindo"
   avatarURL = "/images/img.png"
   avatarSize = "size-m"
   customHeadHTML = """

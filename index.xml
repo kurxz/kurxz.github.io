@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>KurXZ</title><link>/</link><description>Recent content on KurXZ</description><generator>Hugo -- gohugo.io</generator><language>pt</language><lastBuildDate>Sat, 11 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Remover Bloatware de celulares</title><link>/posts/removerbloatware/</link><pubDate>Sat, 11 Jun 2022 00:00:00 +0000</pubDate><guid>/posts/removerbloatware/</guid><description>O que é isso? Como forçar a desinstalção de aplicativos android Os Bloatwares que vem junto com seu celular e nativamente não é possivel desinstalalos
 O que preciso? Primeiramente você vai precisar do seu cabo usb e o ABD tools recomenda-se a utilização de linux para isso
-Como faço? Após isso ativar as configurações de Desenvolvedor no seu celular ( Isso vária de celular para celular então pesquise de acordo com o seu modelo )</description></item><item><title>Meus projetos</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>Aqui está alguns de meus projetos Kazeshini Bot Meu primeiro bot foi feito para Discord, possuí várias funções
-Caso queira adicionar aqui está um link
-Ionic Notes Um aplicativo de anotação feito em Ionic
+Como faço? Após isso ativar as configurações de Desenvolvedor no seu celular ( Isso vária de celular para celular então pesquise de acordo com o seu modelo )</description></item><item><title>Meus projetos</title><link>/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/projects/</guid><description>Aqui está alguns de meus projetos Ionic Notes Um aplicativo de anotação feito em Ionic
 Tem como sua base o Angular
 Youtube Thumbnail Um website simples caso queira pegar a thumbnail de algum vídeo do youtube
-Firewall Blocker Aplicativo feito para facilitar o bloqueio de um aplicativo no firewall do windows</description></item></channel></rss>
+Firewall Blocker Aplicativo feito para facilitar o bloqueio de um aplicativo no firewall do windows
+Possuí suporte para multi idiomas
+DiscordBot Template Se você tem planos de criar um bot para discord, ou ver como funciona um</description></item></channel></rss>

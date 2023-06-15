@@ -5,12 +5,6 @@ type: page
 
 ## Aqui está alguns de meus projetos
 
-### [Kazeshini Bot](https://kurxz.github.io/kazeshinibot/)
-
-> Meu primeiro bot foi feito para Discord, possuí várias funções\
-> **Caso queira adicionar** aqui está um [link](https://kurxz.github.io/kazeshinibot/convite/)
- 
-
 ### [Ionic Notes](https://github.com/kurxz/Ionic_notes)
 
 > Um aplicativo de anotação feito em Ionic\
